@@ -13,19 +13,19 @@ It's easy and secure !
 
 ### features
 
-Online Editor includes dozens of features.\
-- view and navigate folders and files like a normal file explorer\
-- create/edit/delete/move/rename/duplicate/download/upload files and folders\
-- advanced and fully customizable syntax highlighting\
-- merge management, to edit a file with several people at the same time\
-- code autocompletion\
-- input suggestion\
-- indentation management\
-- customizable shortcuts to navigate very quickly in folders\
-- dark theme/light theme/custom theme\
-- change default directory\
-- show or hide hidden files and folders\
-- shortcuts like Ctrl+S to edit a file quickly\
+Online Editor includes dozens of features.
+- view and navigate folders and files like a normal file explorer
+- create/edit/delete/move/rename/duplicate/download/upload files and folders
+- advanced and fully customizable syntax highlighting
+- merge management, to edit a file with several people at the same time
+- code autocompletion
+- input suggestion
+- indentation management
+- customizable shortcuts to navigate very quickly in folders
+- dark theme/light theme/custom theme
+- change default directory
+- show or hide hidden files and folders
+- shortcuts like Ctrl+S to edit a file quickly
 
 ## Installation
 
