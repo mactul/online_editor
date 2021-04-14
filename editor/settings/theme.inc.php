@@ -1,0 +1,5 @@
+<?php
+
+$theme = 'colors.css';
+
+?>

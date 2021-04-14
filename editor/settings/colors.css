@@ -1,0 +1,64 @@
+/************************************************/
+/* To see changes, you have to clear your cache */
+/*   Click on te url bar and press Ctrl + F5    */
+/*    if it doesn't work, press Shift + F5      */
+/************************************************/
+
+
+* {
+    --background-color: #202020;
+    --color: white;
+    --panel-color: #454545;
+}
+
+string {
+    color: #E7DB74;
+}
+comment {
+    color: grey;
+}
+keyword {
+    color: #F92372;
+}
+variable {
+    color: #FFDEB5;
+}
+constant {
+    color: #FF7700;
+}
+function {
+    color: #67D8FF;
+}
+type {
+    color: #67D8FF;
+}
+number {
+    color: #AC80FF;
+}
+numberhexa {
+    color: #AC60FF;
+}
+operator {
+    color: #F92372;
+}
+balise {
+    color: #F92372;
+}
+argument {
+    color: orange;
+}
+cssid {
+    color: #A6E22C;
+}
+cssclass {
+    color: #A6E22C;
+}
+cssproperty {
+    color: #67D8FF;
+}
+cssvalue {
+    color: #FFDEB5;
+}
+cssunit {
+    color: #F92372;
+}
