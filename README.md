@@ -7,6 +7,10 @@ Let's say I have the site https://site.com/.\
 If I install Online Editor on it, I just have to go to this address https://site.com/editor/, enter my password and instantly I have access to the files of my site and I can modify them.\
 It's easy and secure !
 
+![editor image](https://cdn.discordapp.com/attachments/750339759716565092/832024821310947348/editor1.png)
+
+![editor image](https://cdn.discordapp.com/attachments/750339759716565092/832024809499131915/editor2.png)
+
 ### features
 
 Online Editor includes dozens of features.\
