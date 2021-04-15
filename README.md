@@ -36,7 +36,7 @@ Online Editor includes dozens of features.
 
 ## Installation
 
-**__WARNING__** Don't clone all the repositorie, it will not working.\
+**__WARNING__** Don't clone all the repositories, it won't work.\
 You have to download install.php, put it at the root of your website and run it by opening the address corresponding to your site https://YOUR_SITE.COM/install.php\
 To download install.php, you can use wget command.\
 move to the root of your site with `cd` and type:
