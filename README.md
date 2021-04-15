@@ -3,7 +3,7 @@
 Online editor is a free and easy to use editor written in php/js that can help you a lot to manage your websites.
 
 it is time consuming to launch an ftp manager, to connect to your site, to download a file, to modify it and to send it back when you want to make a very small modification.\
-Let's say I have the site https://site.com/.\
+Let's say I have the site https://site.com/ \
 If I install Online Editor on it, I just have to go to this address https://site.com/editor/, enter my password and instantly I have access to the files of my site and I can modify them.\
 It's easy and secure !
 
