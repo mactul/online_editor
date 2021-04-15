@@ -46,6 +46,14 @@ wget https://raw.githubusercontent.com/mactul/online_editor/install.php
 
 **__WARNING__** between the moment you put install.php online and the moment you launch it and enter the password in the interface, your site is vulnerable because someone could enter a password in your place !
 
+
+## Useful shortcuts
+
+- `Ctrl+S` in file edition to save the file without closing it.
+- `Ctrl+Q` in file edition to save and close the file.
+- `F5` or `F9` (do the same) open the file on a new tab. useful to web files, to test the code.
+
+
 ## Customisation:
 
 Online Editor is fully configurable.\
