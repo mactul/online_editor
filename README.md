@@ -13,9 +13,9 @@ It's easy and secure, try Online Editor !
 
 ![editor image](https://cdn.discordapp.com/attachments/750339759716565092/832026451825131540/editor2.png)
 
-![Editor image on mobile](https://cdn.discordapp.com/attachments/750339759716565092/832141522441994280/Screenshot_20210415-083224_Chrome.jpg =180x270)
+![Editor image on mobile](https://cdn.discordapp.com/attachments/750339759716565092/832141522441994280/Screenshot_20210415-083224_Chrome.jpg=180x270)
 
-![Editor image on mobile](https://cdn.discordapp.com/attachments/750339759716565092/832141522899697704/Screenshot_20210415-083303_Chrome.jpg =180x270)
+![Editor image on mobile](https://cdn.discordapp.com/attachments/750339759716565092/832141522899697704/Screenshot_20210415-083303_Chrome.jpg=180x270)
 
 
 ### features
